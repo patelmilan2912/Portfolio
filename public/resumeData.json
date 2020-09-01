@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name":"Milan Patel",
+    "occupation":"Junior I.T Engineer",
+    "description":"I am skilled with handful of experience to kick start my career in Industry. When I am not pushing pixels, I am with my headphones.",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "patelmilan2912@gmail.com",
+    "phone": "+1(437)-234-3949",
+    "address":{
+      "street":"45 Provence Trail, Etobicoke",
+      "city":"Toronto, CA",
+      "state":"ON",
+      "zip": "M9V 5B6"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/patel2912",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/patelmilan2912",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/milan2912",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/milan_2912/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/patelmilan2912/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to  employers",
+    "education":[
+      {
+        "school":"Humber College, Toronto, ON",
+        "degree":"Post Graduation in Project Management",
+        "graduated":"April 2020",
+        "description":"During my course study at Humber in Project Management Course, I was introduced to 13 PMBOK Knowledge Areas and 49 Processes. I enjoyed this course with my fellow batchmates and got exposure how to use the processes and knowledge areas when I was selected for the Alternative Capstone Project of ICT Showcase Event. This experience allowed me to know more in depth about the Project Management and how to utilize skills respectively."
+      },
+      {
+        "school":"Humber College, Toronto, ON",
+        "degree":"Enterprise Software Development",
+        "graduated":"April 2019",
+        "description":"In this course, I opted for mostly Databases related courses, where I have to create test cases, use cases for the database. I also learned about database relations such as one-one, one-many and more. It was great exposure to use visualizing tools such as Power BI, R Studio, Neo4J, SSRS, Tableau and many more."
+      }
+    ],
+    "work":[
+      {
+        "company":"Humber College",
+        "title":"Project Coordinator ",
+        "years":"December 2019- April 2020",
+        "description":"I was part of diverse team that includes,8 departments, and 20 stakeholders. I was reponsible for undertaking project tasks as required and completing it before deadline and reporting those to team lead and project advisor. Moreover, I was also responsible for preparing presentations, flowcharts, and 3D Layouts required for the projects. This project made me realize how important is communication skills MOST OF PROJECT FAILS DUE TO COMMUNICATION."
+      },
+      {
+        "company":"Achieve Potential",
+        "title":"Database Developer",
+        "years":"December 2018- Present",
+        "description":"Developed and tested stored procedures using MySQL. Performed Unit Testing and System Testing for the application, migrated the data to the Firebase, so data can be stored more flexibly. Cleared up the database in firebase manually, securing collection id of the users, so their data is not replicated."
+      },
+      {
+        "company":"Acquaint Technologies",
+        "title":"Database Developer",
+        "years":"June 2017 - April 2018",
+        "description":"The first Project when I was introduced to SQL Server, with this Project I learned how to design stable, reliable, and effective database using Microsoft SQL Server 2014 and how can we solve deadlock issues and perform Query Optmization  using Activity Monitor. Here, I was introduced to concepts of PRIMARY KEY, FOREIGN KEY and UNIQUE KEY which are used for creating tables."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Microsoft SQL Server",
+        "level":"80%"
+      },
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"80%"
+      },
+      {
+        "name":"Visualizing Tools [Power BI, Tableau, R Studio]",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"My Wordpress Site",
+        "category":"Portfolio Site",
+        "image":"",
+        "url":"https://www.patelmilan.com"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website",
+        "image":"resume-website.jpg",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"What my Collegues says"
+      },
+      {
+        "text":"Milan is a great team member! During one year, I had the pleasure of working on the same project. His work and imagination for the ideas are splendid.In those times, he always kept the team motivated and shared abundant knowledge about the latest trends. I believe he is one of the best team members I ever had, as his personality skills are highly developed.His ability to deal with a problem and come up with new innovative ways to achieve results were always an inspiration. I’m delighted I had the chance to learn from Milan.",
+        "user":"Nirav Raval"
+      },
+      {
+        "text":"We have worked together for a Project at Humber College for BCTI. Throughout the entire project life cycle, I have noticed that Milan has shown great enthusiasm and has been always looking forward to learning new things in order to support the project. He is really comfortable n actively engaging with the stakeholders and getting their requirements. His active involvement and technological skills have helped the team to get better support towards the development of project deliverables. I believe that Milan will truly be a better candidate for future opportunities.",
+        "user":"Bhavya Rathod"
+      }
+    ]
+  }
+}
