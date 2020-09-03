@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #161415 url(../images/header.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -671,8 +671,8 @@ call-to-action .button {
    font-family: 'FontAwesome';
    content: "\f10d";
 	padding-right: 10px;
-	font-size: 72px;
-   line-height: 72px;
+	font-size: 20px;
+   line-height: 20px;
    text-align: left;
    float: left;
    color: #fff;
@@ -689,13 +689,13 @@ call-to-action .button {
 #testimonials blockquote p {
    font-family: 'librebaskerville-italic', serif;
    padding: 0;
-   font-size: 24px;
-   line-height: 48px;
+   font-size: 18px;
+   line-height: 30px;
    color: #fff
 }
 #testimonials blockquote cite {
    display: block;
-   font-size: 12px;
+   font-size: 18px;
    font-style: normal;
    line-height: 18px;
    color: #fff;

@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Ravi Patel",
+    "name":"Milan Patel",
     "occupation":"Junior I.T Engineer",
     "description":"I am skilled with handful of experience to kick start my career in Industry. When I am not pushing pixels, I am with my headphones.",
     "image":"profilepic.jpg",
@@ -14,8 +14,8 @@
       "state":"ON",
       "zip": "M9V 5B6"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://milanpatel.herokuapp.com/",
+    "resumedownload":"https://drive.google.com/file/d/1-TNPisg9sI6LNh-AGVeNyqySheOXAoWC/view",
     "social":[
       {
         "name":"facebook",
@@ -110,16 +110,17 @@
   "portfolio":{
     "projects": [
       {
-        "title":"My Wordpress Site",
-        "category":"Portfolio Site",
-        "image":"",
-        "url":"https://www.patelmilan.com"
+        "title":"I love to hear Spotify and Podcasts lot.",
+        "image":"react.png"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website",
-        "image":"resume-website.jpg",
-        "url":""
+        "title":"Bhagwad Geeta - The holy book, that solves everyone;s questions about life.",
+        "image":"Bhagawad-Geeta.jpg",
+        "url":"http://library.um.edu.mo/ebooks/b17771201.pdf"
+      },
+      {
+        "title":"For me, He is the Lord Of Cricket -The Trophy Collector",
+        "image":"Dhoni.jpg"
       }
     ]
   },
