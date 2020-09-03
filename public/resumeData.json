@@ -4,8 +4,8 @@
     "occupation":"Junior I.T Engineer",
     "description":"I am skilled with handful of experience to kick start my career in Industry. When I am not pushing pixels, I am with my headphones.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"In the Ocean of Internet, It's Me Milan, trying to STAND OUT. It's the beginning of my career in the I.T Industry, but I have worked on some personal and capstone projects that have helped me grow my knowledge. My learning curve includes Data Visualiztion, Database Development and Front End Development (Wordpress, ReactJS). I am fond of Tech, and I like to stay up-date with all tech news.",
+    "contactmessage":"Let's Hangout or Hire Me for Work !",
     "email": "patelmilan2912@gmail.com",
     "phone": "+1(437)-234-3949",
     "address":{
@@ -65,7 +65,7 @@
         "company":"Humber College",
         "title":"Project Coordinator ",
         "years":"December 2019- April 2020",
-        "description":"I was part of diverse team that includes,8 departments, and 20 stakeholders. I was reponsible for undertaking project tasks as required and completing it before deadline and reporting those to team lead and project advisor. Moreover, I was also responsible for preparing presentations, flowcharts, and 3D Layouts required for the projects. This project made me realize how important is communication skills MOST OF PROJECT FAILS DUE TO COMMUNICATION."
+        "description":"I was part of diverse team that includes,8 departments, and 20 stakeholders. I was reponsible for undertaking project tasks as required and completing it before deadline and reporting those to team lead and project advisor. Moreover, I was also responsible for preparing presentations, flowcharts, and 3D Layouts required for the projects. This project made me realize how important is communication skills, because most of the project fails due to lack of communication."
       },
       {
         "company":"Achieve Potential",
@@ -77,7 +77,7 @@
         "company":"Acquaint Technologies",
         "title":"Database Developer",
         "years":"June 2017 - April 2018",
-        "description":"The first Project when I was introduced to SQL Server, with this Project I learned how to design stable, reliable, and effective database using Microsoft SQL Server 2014 and how can we solve deadlock issues and perform Query Optmization  using Activity Monitor. Here, I was introduced to concepts of PRIMARY KEY, FOREIGN KEY and UNIQUE KEY which are used for creating tables."
+        "description":"The first Project when I was introduced to SQL Server, with this Project I learned how to design stable, reliable, and effective database using Microsoft SQL Server 2014 and how can we solve deadlock issues and perform Query Optmization  using Activity Monitor. Here, I was introduced to concepts of Primary Keys, Foregin Keys and Unique Keys which are used for creating tables."
       }
     ],
     "skills":[
@@ -121,6 +121,10 @@
       {
         "title":"For me, He is the Lord Of Cricket -The Trophy Collector",
         "image":"Dhoni.jpg"
+      },
+      {
+        "title":"This is not just MCU for me, It is whole world !",
+        "image":"Marvel.jpg"
       }
     ]
   },
